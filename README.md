@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola mundo 👋
 
 <!--
 **rorepoid/rorepoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> Estudiante de Ingeniería de sistemas en Lima con 1 año y medio de experiencia en la industria del software(fuera de la universidad).
+
+# ☎️ Contact information
+
+📧 [Email](mailto:rorellanaye@gmail.com)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/rorellanaa/)
+
+---
+
+# **👩🏻‍💻** Work experience
+
+## Web Developer(backend)
+
+## Practicante Desarrollador Backend
+
+ASIX*, Miraflores – (2018 - 2019)*
+---
+
+# 🛠 Skills
+
+## 💻 Techs
+
+## PHP⭐⭐⭐⭐⭐
+
+## Javascript⭐⭐⭐⭐
+
+---
+
+### Básico-intermedio
+
+### GraphQL⭐⭐⭐
+
+### Docker⭐⭐
+
+### Tailwind CSS⭐⭐⭐
+
+### Python⭐⭐
+---
+
+# 📚 Education
+
+## **Carrera de Ingeniería de Sistemas**
+
+*2016 (acabando el 2021)*
+
+## **Autodidacta**
