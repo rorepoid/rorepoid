@@ -1,4 +1,4 @@
-### Hola mundo 👋
+### Hi there 👋
 
 <!--
 **rorepoid/rorepoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> Estudiante de Ingeniería de sistemas en Lima con 1 año y medio de experiencia en la industria del software(fuera de la universidad).
+> Life's too short to stop learning
 
 # ☎️ Contact information
 
