@@ -6,3 +6,10 @@
 [![Gmail: rorepoid](https://img.shields.io/badge/Gmail--red?&logo=Gmail&style=social)](mailto:rorellanaye@gmail.com)
 
 > Life's too short to stop learning## Hey, Life's too short to stop learning!
+
+
+- 👨‍💻 I'm looking for a job
+- **Laravel** is the framework I am working currently with TALL stack
+- I'm currently learning Rust 🦀 **(soon my main language)**
+- 📕 I'm studying System Engineer
+- Cats are the best 🐈
