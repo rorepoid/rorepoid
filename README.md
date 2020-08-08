@@ -5,7 +5,7 @@
 [![Twitter: rorepoid](https://img.shields.io/twitter/follow/rorepoid?style=social)](https://twitter.com/rorepoid)
 [![Gmail: rorepoid](https://img.shields.io/badge/Gmail--red?&logo=Gmail&style=social)](mailto:rorellanaye@gmail.com)
 
-> Life's too short to stop learning## Hey, Life's too short to stop learning!
+> Life's too short to stop learning
 
 ### About me in a nutshell
 - 👨‍💻 I'm looking for a job
