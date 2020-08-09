@@ -13,3 +13,5 @@
 - I'm currently learning Rust 🦀 **(soon my main language)**
 - 📕 I'm studying System Engineering
 - Cats are the best 🐈
+
+[![rorepoid's github stats](https://github-readme-stats.vercel.app/api?username=rorepoid&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
