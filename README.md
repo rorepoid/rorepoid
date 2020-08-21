@@ -4,9 +4,8 @@
 [![Gmail: rorepoid](https://img.shields.io/badge/Gmail--red?&logo=Gmail&style=social)](mailto:rorellanaye@gmail.com)
 [![Notion: rorepoid](https://img.shields.io/badge/Resume--red?&logo=Notion&style=social)](https://www.notion.so/Roberto-Orellana-84100d908f9a4d73bad01e391a86f53e)
 
-<a href="https://dev.to/rorepoid">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Roberto Orellana Aliano's DEV Profile" height="30" width="30">
-</a>
+<a href="https://dev.to/rorepoid"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Roberto Orellana Aliano's DEV Profile" height="30" width="30"></a>
+<a href="https://rorepoid.github.io"><img src="https://avatars0.githubusercontent.com/u/43040385" alt="rorepoid's website" height="30" width="30"></a>
 
 > Life's too short to stop learning
 
