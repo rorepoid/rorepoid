@@ -3,7 +3,10 @@
 [![Linkedin: rorepoid](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rorepoid/)](https://www.linkedin.com/in/rorepoid/)
 [![Gmail: rorepoid](https://img.shields.io/badge/Gmail--red?&logo=Gmail&style=social)](mailto:rorellanaye@gmail.com)
 [![Notion: rorepoid](https://img.shields.io/badge/Resume--red?&logo=Notion&style=social)](https://www.notion.so/Roberto-Orellana-84100d908f9a4d73bad01e391a86f53e)
-[![Dev: rorepoid](https://img.shields.io/badge/-DEV-black)](https://dev.to/rorepoid)
+
+<a href="https://dev.to/rorepoid">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Roberto Orellana Aliano's DEV Profile" height="30" width="30">
+</a>
 
 > Life's too short to stop learning
 
