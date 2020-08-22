@@ -16,6 +16,5 @@
 - 📕 I'm studying System Engineering
 - Cats are the best 🐈
 
-<img align="right" src="https://wakatime.com/share/@rorepoid/0db5fa01-495c-43f8-aa83-82e4dbe89260.svg" width="430">
-
 [![rorepoid's github stats](https://github-readme-stats.vercel.app/api?username=rorepoid&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://wakatime.com/share/@rorepoid/0db5fa01-495c-43f8-aa83-82e4dbe89260.svg" width="800">
