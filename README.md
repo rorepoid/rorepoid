@@ -10,7 +10,6 @@
 > Life's too short to stop learning
 
 ### About me in a nutshell
-- 👨‍💻 I'm looking for a job
 - **Laravel** is the framework I am working currently with TALL stack
 - I'm currently learning Rust 🦀 **(soon my main language)**
 - 📕 I'm studying System Engineering
