@@ -16,3 +16,6 @@
 - Cats are the best 🐈
 
 [![rorepoid's github stats](https://github-readme-stats.vercel.app/api?username=rorepoid&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://github.com/rorepoid/rorepoid/blob/master/metrics.svg)
+
