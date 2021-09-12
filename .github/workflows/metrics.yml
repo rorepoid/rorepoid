@@ -31,4 +31,13 @@ jobs:
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
 
+          # Wakatime
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, projects-graphs
+          plugin_wakatime_limit: 4
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: .user.login
+
           config_timezone: America/Lima
