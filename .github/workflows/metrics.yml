@@ -18,6 +18,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "header, activity"
+
+          # Wakatime
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, projects-graphs
+          plugin_wakatime_limit: 4
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: rorepoid
+
           plugin_lines: yes
 
           plugin_languages: yes
@@ -30,14 +40,5 @@ jobs:
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
-
-          # Wakatime
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, projects-graphs
-          plugin_wakatime_limit: 4
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: rorepoid
 
           config_timezone: America/Lima
