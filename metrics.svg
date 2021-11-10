@@ -1529,23 +1529,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">admin</span>
-                                <div class="bar" style="width: 34.12%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">43%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">rustube</span>
-                                <div class="bar" style="width: 25.464%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">32%</span>
+                                <div class="bar" style="width: 38.816%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">49%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">api</span>
-                                <div class="bar" style="width: 20.408%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">26%</span>
+                                <div class="bar" style="width: 19.56%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">24%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">media</span>
-                                <div class="bar" style="width: 0.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
+                                <span class="name">rustube</span>
+                                <div class="bar" style="width: 17.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">21%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">noticias</span>
+                                <div class="bar" style="width: 4.464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                         </div>
                     </section>
