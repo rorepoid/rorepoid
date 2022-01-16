@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="672" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="690" class="">
     <defs>
         <style/>
     </defs>
@@ -47,7 +47,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -74,7 +74,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1113 Commits
+                            1116 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -114,14 +114,21 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 0 edited files from 0 commits over last NaN days</small>
+                <small>estimation from 3 edited files from 2 commits over last 0 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
+                    </div>
                 </div>
             </section>
             <section class="column">
@@ -131,14 +138,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="338.5919167358327" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="338.5919167358327" y="0" width="62.578630045708" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="401.1705467815407" y="0" width="30.65506041795744" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="431.8256071994981" y="0" width="14.427821875158301" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="446.2534290746564" y="0" width="6.976968698003733" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="453.2303977726601" y="0" width="4.503246905065289" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.73364467772547" y="0" width="1.2978609198492765" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="459.0315055975747" y="0" width="0.9684944024252911" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="338.56685031638665" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="338.56685031638665" y="0" width="62.57399726473614" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="401.1408475811228" y="0" width="30.652790982201303" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="431.79363856332407" y="0" width="14.460808188647487" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="446.2544467519716" y="0" width="6.976452183535426" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="453.230898935507" y="0" width="4.502913523580936" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.73381245908797" y="0" width="1.297764837442723" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="459.03157729653066" y="0" width="0.9684227034693432" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -219,7 +226,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~7 coding hours recorded
+                            ~9 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -243,23 +250,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">admin</span>
-                                <div class="bar" style="width: 43.495999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">54%</span>
+                                <div class="bar" style="width: 56.448%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">71%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">api</span>
-                                <div class="bar" style="width: 24.584000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">31%</span>
+                                <div class="bar" style="width: 15.344%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">python-training</span>
-                                <div class="bar" style="width: 4.632%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">cronos-lambda-analytics-api-cron-jobs</span>
-                                <div class="bar" style="width: 3.8240000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <span class="name">pyglr</span>
+                                <div class="bar" style="width: 3.3759999999999994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
