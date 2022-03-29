@@ -10,7 +10,7 @@
 > Life's too short to stop learning
 
 ### About me in a nutshell
-- **Laravel** is the framework I am working currently with TALL and TIL stack
+- **Laravel** is the framework I am working currently
 - I'm currently learning Rust 🦀 **(soon my main language)**
 - 📕 I'm studying System Engineering
 - Cats are the best 🐈
