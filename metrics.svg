@@ -232,23 +232,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">fileserver</span>
-                                <div class="bar" style="width: 31.72%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">40%</span>
+                                <div class="bar" style="width: 28.872000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">36%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">admin</span>
-                                <div class="bar" style="width: 21%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">26%</span>
+                                <div class="bar" style="width: 23.032%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">29%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">laravel-sail</span>
-                                <div class="bar" style="width: 10.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
+                                <div class="bar" style="width: 11.176000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">lr-premium-auth-api</span>
-                                <div class="bar" style="width: 6.992000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 7.656000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                         </div>
                     </section>
