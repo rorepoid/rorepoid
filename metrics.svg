@@ -232,22 +232,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">cronos-admin</span>
-                                <div class="bar" style="width: 14.12%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">capacitaciones</span>
-                                <div class="bar" style="width: 10.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
+                                <div class="bar" style="width: 17.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">facturacion-electronica</span>
-                                <div class="bar" style="width: 9.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 15.248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">cronos-analytics-api</span>
+                                <div class="bar" style="width: 9.351999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">12%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">cronos-printed</span>
-                                <div class="bar" style="width: 9.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">mp-cliente</span>
+                                <div class="bar" style="width: 8.687999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">11%</span>
                             </div>
                         </div>
