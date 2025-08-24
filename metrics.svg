@@ -232,7 +232,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">rust-by-example</span>
-                                <div class="bar" style="width: 49.36%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 49.336%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">62%</span>
                             </div>
                             <div class="entry">
