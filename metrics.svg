@@ -232,23 +232,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">ai-media-lab</span>
-                                <div class="bar" style="width: 61.36%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">77%</span>
+                                <div class="bar" style="width: 49.816%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">62%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 10.168000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
+                                <div class="bar" style="width: 13%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">cronos</span>
+                                <div class="bar" style="width: 6.311999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">rea</span>
-                                <div class="bar" style="width: 3.6799999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">lr-premium-auth-api</span>
-                                <div class="bar" style="width: 3.4399999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 4.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                         </div>
                     </section>
